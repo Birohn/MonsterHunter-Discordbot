@@ -6,7 +6,6 @@ A simple Monster Hunter World bot that have a few simple commands.
 ## Requirments
 
 - node.js
- ** npm install **
 - dotenv(Unessessary if you prefer to keep your token within a .json file. via Object destructuring)
 - discord.js
 
