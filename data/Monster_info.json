@@ -1,0 +1,196 @@
+{
+	"LargeMonster": [
+	{
+		"name":"Anjanath",
+		"isElderDragon":false,
+		"hasLowRank":true,
+		"Description":"A Fire-Breathing T-Rex."
+	},
+	{
+		"name":"Azure Rathalos",
+		"isElderDragon":false,
+		"hasLowRank":false,
+		"Description":"A Flying Blue Fortress."
+	},
+	{
+		"name":"Barroth",
+		"isElderDragon":false,
+		"hasLowRank":true,
+		"Description":"A Dirty Boi."
+	},
+	{
+		"name":"Bazelgeuse",
+		"isElderDragon":false,
+		"hasLowRank":false,
+		"Description":"A B-52 Bomber In The Making."
+	},
+	{
+		"name":"Black Diablos",
+		"isElderDragon":false,
+		"hasLowRank":false,
+		"Description":"An Angry Pointy Girl."
+	},
+	{
+		"name":"Deviljho",
+		"isElderDragon":false,
+		"hasLowRank":false,
+		"Description":"A Dangerous Pickle."
+	},
+	{
+		"name":"Diablos",
+		"isElderDragon":true,
+		"hasLowRank":false,
+		"Description":"An Angry Pointy Boi."
+	},
+	{
+		"name":"Dodogama",
+		"isElderDragon":true,
+		"hasLowRank":false,
+		"Description":"A Fat Boi."
+	},
+	{
+		"name":"Great Girros",
+		"isElderDragon":true,
+		"hasLowRank":false,
+		"Description":"A Tingly Boi."
+	},
+	{
+		"name":"Great Jagras",
+		"isElderDragon":true,
+		"hasLowRank":false,
+		"Description":"Bottom Of The Food Chain."
+	},
+	{
+		"name":"Jyuratodus",
+		"isElderDragon":true,
+		"hasLowRank":false,
+		"Description":"A Swimmy Boi."
+	},
+	{
+		"name":"Kirin",
+		"isElderDragon":true,
+		"hasLowRank":false,
+		"Description":"An Electrical Horny Boi."
+	},
+	{
+		"name":"Kulu-Ya-Ku",
+		"isElderDragon":true,
+		"hasLowRank":false,
+		"Description":"A Chicken Boi."
+	},
+	{
+		"name":"Kulve Taroth",
+		"isElderDragon":true,
+		"hasLowRank":false,
+		"Description":"Mommy Great Jagras."
+	},
+	{
+		"name":"Kushala Daora",
+		"isElderDragon":true,
+		"hasLowRank":false,
+		"Description":"A Breezy Boi."
+	},
+	{
+		"name":"Lavasioth",
+		"isElderDragon":true,
+		"hasLowRank":false,
+		"Description":"Atleast It's Not Plesioth."
+	},
+	{
+		"name":"Legiana",
+		"isElderDragon":true,
+		"hasLowRank":false,
+		"Description":"A Cold One."
+	},
+	{
+		"name":"Nergigante",
+		"isElderDragon":true,
+		"hasLowRank":false,
+		"Description":"One Spikey Boi."
+	},
+	{
+		"name":"Odogaron",
+		"isElderDragon":true,
+		"hasLowRank":false,
+		"Description":"Clifford The Big Red Dog."
+	},
+	{
+		"name":"Paolumu",
+		"isElderDragon":true,
+		"hasLowRank":false,
+		"Description":"A Good-Looking Jacket."
+	},
+	{
+		"name":"Pink Rathian",
+		"isElderDragon":false,
+		"hasLowRank":false,
+		"Description":"Girl-Power!"
+	},
+	{
+		"name":"Pukei-Pukei",
+		"isElderDragon":true,
+		"hasLowRank":false,
+		"Description":"A Slobber."
+	},
+	{
+		"name":"Radobaan",
+		"isElderDragon":true,
+		"hasLowRank":false,
+		"Description":"An Edgy Bleyblade"
+	},
+	{
+		"name":"Rathalos",
+		"isElderDragon":true,
+		"hasLowRank":false,
+		"Description":"The OG."
+	},
+	{
+		"name":"Rathian",
+		"isElderDragon":true,
+		"hasLowRank":false,
+		"Description":"OG's wife."
+	},
+	{
+		"name":"Teostra",
+		"isElderDragon":true,
+		"hasLowRank":false,
+		"Description":"Over Glorified Toaster."
+	},
+	{
+		"name":"Tobi-Kadachi",
+		"isElderDragon":true,
+		"hasLowRank":false,
+		"Description":"Is That a Pachirisu?"
+	},
+	{
+		"name":"Tzitzi-Ya-Ku",
+		"isElderDragon":true,
+		"hasLowRank":false,
+		"Description":"Papa-Paparazzi."
+	},
+	{
+		"name":"Uragaan",
+		"isElderDragon":true,
+		"hasLowRank":false,
+		"Description":"That's One Big Rolly-Polly."
+	},
+	{
+		"name":"Vaal Hazak",
+		"isElderDragon":true,
+		"hasLowRank":false,
+		"Description":"Anti-vaxxed Child."
+	},
+	{
+		"name":"Xeno'jiiva",
+		"isElderDragon":true,
+		"hasLowRank":false,
+		"Description":"Goddam Aliens Taking Our JERBS!"
+	},
+	{
+		"name":"Zorah Magdaros",
+		"isElderDragon":true,
+		"hasLowRank":false,
+		"Description":"A Disappointment."
+	}
+	]
+}

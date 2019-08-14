@@ -1,0 +1,84 @@
+{
+	"Weapon": [
+		{
+		"name":"longsword",
+		"alias":["ls"],
+		"modifier":3.3
+		
+		},
+		{
+		"name":"hammer",
+		"modifier":5.2
+		
+		},
+		{
+		"name":"lance",
+		"modifier":2.3
+		
+		},
+		{
+		"name":"greatsword",
+		"alias":["gs"],
+		"modifier":4.8
+		
+		},
+		{
+		"name":"gunlance",
+		"alias":["gl"],
+		"modifier":2.3
+		
+		},
+		{
+		"name":"huntinghorn",
+		"alias":["hh"],
+		"modifier":4.2
+		
+		},
+		{
+		"name":"chargeblade",
+		"alias":["cb"],
+		"modifier":3.6
+		
+		},
+		{
+		"name":"swordandshield",
+		"alias":["sns"],
+		"modifier":1.4
+		
+		},
+		{
+		"name":"dualblades",
+		"alias":["db"],
+		"modifier":1.4
+		
+		},
+		{
+		"name":"switchaxe",
+		"alias":["sa"],
+		"modifier":3.5
+		
+		},
+		{
+		"name":"insectglaive",
+		"alias":["ig"],
+		"modifier":3.1
+		
+		},
+		{
+		"name":"bow",
+		"modifier":1.2
+		
+		},
+		{
+		"name":"heavybowgun",
+		"alias":["hbg"],
+		"modifier":1.5
+		
+		},
+		{
+		"name":"lightbowgun",
+		"alias":["lbg"],
+		"modifier":1.3
+		}
+	]
+}
